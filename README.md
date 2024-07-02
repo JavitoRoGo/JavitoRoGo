@@ -3,8 +3,10 @@
 #### Welcome to my GitHub profile. I'm an iOS developer from Spain 🇪🇸 based in the Canary Islands.
 
 - 👀 I’m interested in Swift and SwiftUI for building apps for any Apple platform: iOS, iPadOS, watchOS, macOS and visionOS.
-- 🌱 Student at Swift Fullstack Bootcamp by [Apple Coding Academy](https://acoding.academy).
-- 🤝 I'm currently looking for native iOS projects to collaborate.
+- 🌱 Self-taught in Swift, SwiftUI... since 2020. Stay hungry, stay foolish.
+- 🌱 Student at Swift Fullstack Bootcamp 2024 by [Apple Coding Academy](https://acoding.academy).
+- 🌱 Student at Vision Developer 2024 by [Apple Coding Academy](https://acoding.academy).
+- 🤝 I'm currently looking for native iOS projects to collaborate on.
 
 If you want to get in touch:
 
